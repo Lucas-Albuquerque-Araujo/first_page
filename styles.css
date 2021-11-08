@@ -1,0 +1,35 @@
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-size: auto;
+    background-color: darkgreen;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.button{
+    padding: 10px 30px;
+    margin: 10px 2px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color:#77F045 ;
+    border-color: darkgreen;
+}
+
+.center_button{
+    text-align: center;
+}
+
+.paragrath{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
+
+.titulo{
+    font-size: 50px;
+}
